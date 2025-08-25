@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi I'm Sterling Meinscher 👋
+
+- 🔭 I’m currently working on cstrl, a C library for game development
+- 🌱 I’m currently learning Full Stack Web Development with React, TypeScript, Golang, PostgreSQL, and many other technologies. I'm also always trying to improve my C skills.
+- 🖥️ I've worked as a Mobile Developer for two years, buidling apps with React Native and TypeScript.
 
 <!--
 **smeinscher/smeinscher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
